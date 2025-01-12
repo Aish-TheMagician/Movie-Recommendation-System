@@ -5,6 +5,11 @@ This movie recommendation system employs a hybrid approach, combining Collaborat
 
 ---
 
+## Dataset | [Link](https://grouplens.org/datasets/movielens/100k/)
+MovieLens 100K movie ratings. Stable benchmark dataset. 100,000 ratings from 1000 users on 1700 movies. Released 4/1998.
+
+---
+
 ## Architecture
 
 ### Collaborative Filtering
